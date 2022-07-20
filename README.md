@@ -3,9 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: I'm Cristian a Web Developer from Medellín :colombia:
+### :man_technologist: I’m Cristian a Web Developer from Medellín :colombia:
 
-- I'm studying Software Engineering
+- I’m studying Software Engineering
+- I’m learning Web Development
+- I have passion for Teaching
 
 ### Languages:
 
