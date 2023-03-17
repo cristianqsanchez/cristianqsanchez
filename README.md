@@ -1,6 +1,6 @@
 <h3 align="center">Hey there 👋! I'm Cristian</h3>
 
-<p align="center">I'm a web developer from Medellín :colombia:</p>
+<p align="center">Frontend Developer from Medellín :colombia:</p>
 <div align="center">
 
 ![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -10,3 +10,7 @@
 ![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianqsanchez&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianqsanchez&langs_count=4&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
