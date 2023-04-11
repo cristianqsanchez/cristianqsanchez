@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/js-0d1117?style=for-the-badge&logo=javascript&logoColor=f7DF1E)
 ![](https://img.shields.io/badge/node-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
 ![](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/astro-0d1117?style=for-the-badge&logo=astro&logoColor=FF5D01)
 
 </div>
 
