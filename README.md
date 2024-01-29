@@ -1,6 +1,9 @@
-<h3 align="center">Hey there 👋! I'm Cristian</h3>
+<samp>
+<h1 align="center">Hey there 👋! I'm Cristian</h1>
 
-<p align="center">Frontend Developer from Medellín :colombia:</p>
+<h3 align="center">+1 Year of Experience as Frontend Developer from Medellín :colombia:</h3>
+</samp>
+
 <div align="center">
 
 ![](https://img.shields.io/badge/html-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
