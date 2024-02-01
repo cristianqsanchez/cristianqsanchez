@@ -2,7 +2,7 @@
 <div>
   <a href="https://cristianqs-dev.vercel.app/">Portfolio</a>
   <a href="https://linkedin.com/in/cristianqs">LinkedIn</a>
-  <a href="https://res.cloudinary.com/digoaunp1/image/upload/v1706325387/%20%20%20%20%20curriculum.pdf">Curriculum</a>
+  <a href="https://res.cloudinary.com/digoaunp1/image/upload/v1706761010/curriculum.pdf">Curriculum</a>
 </div>
   
 <h1>Hey there 👋! I'm Cristian</h1>
