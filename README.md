@@ -1,7 +1,7 @@
 <samp align="center">
 <div>
-  <a href="https://cristianqs-dev.vercel.app/">Portfolio</a>
-  <a href="https://linkedin.com/in/cristianqs">LinkedIn</a>
+  <a href="https://cristianqs-dev.vercel.app/">Portfolio</a> |
+  <a href="https://linkedin.com/in/cristianqs">LinkedIn</a> |
   <a href="https://res.cloudinary.com/digoaunp1/image/upload/v1706762046/cv.pdf">Curriculum</a>
   <div>
     <a href="mailto:cristianquintero316@gmail.com">cristianquintero316@gmail.com</a>
