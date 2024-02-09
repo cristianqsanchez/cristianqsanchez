@@ -7,7 +7,7 @@
     <a href="mailto:cristianquintero316@gmail.com">cristianquintero316@gmail.com</a>
   </div>
 </div>
-  
+
 <h1>Hey there 👋! I'm Cristian</h1>
 
 <h3>+1 Year of Experience as Frontend Developer from Medellín :colombia:</h3>
@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/next-0d1117?style=for-the-badge&logo=next.js&logoColor=FFF)
 ![](https://img.shields.io/badge/tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![](https://img.shields.io/badge/astro-0d1117?style=for-the-badge&logo=astro&logoColor=FF5D01)
+![](https://img.shields.io/badge/linux-0d1117?style=for-the-badge&logo=gnubash&logoColor=fff)
 
 </samp>
 
